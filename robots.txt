@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quohkupie.danielchapdelaine.com/sitemap.xml
